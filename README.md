@@ -1,4 +1,4 @@
-Openwall Phpass, modernized
+Openwall Phpass, modernized 1
 ===========================
 
 [![Build Status](https://secure.travis-ci.org/hautelook/phpass.png?branch=master)](http://travis-ci.org/hautelook/phpass)
