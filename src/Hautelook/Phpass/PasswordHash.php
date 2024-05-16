@@ -63,6 +63,10 @@ class PasswordHash
             $this->random_state .= getmypid();
         }
     }
+    
+    public function needsRehash($hash) {
+        return false;
+    }
 
     /**
      * @param  int $count
